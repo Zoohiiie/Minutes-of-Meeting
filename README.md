@@ -1,6 +1,7 @@
-# Minutes of Meeting
+# Minutes of Meeting 
 
 A simple Streamlit app that turns a meeting into clear, organized minutes using the Gemini API.
+The link : https://minutes-of-meeting-btwvba2vtw2vch9czyosapp.streamlit.app
 
 ## Features
 
@@ -26,7 +27,7 @@ meeting-app/
     └── config.toml   # Streamlit settings
 ```
 
-## Getting Started
+## Try it for yourself
 
 ### 1. Clone the repo
 
